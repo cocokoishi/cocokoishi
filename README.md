@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋我一行代码也不会写，我只会使用低端开源AI工具进行垃圾的产出。
 
 <!--
 **cocokoishi/cocokoishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
