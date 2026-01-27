@@ -1,4 +1,4 @@
-## Hi there 👋我是中国人，爱慕拆腻子
+## Hi there 👋
 
 <!--
 **cocokoishi/cocokoishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
