@@ -8,6 +8,8 @@ Below is a list of my projects that I am currently doing, with brief introductio
 
 - **[udon-serialized-variable-editor](https://github.com/cocokoishi/udon-serialized-variable-editor)**  – A wildly hacky script built entirely on reflection. If you enjoy exploring worlds, pair this with [UdonDecompiler](https://github.com/ParaN3xus/udon-decompiler) and his UABEANext fork – it’ll dramatically improve your experience.
 
+- **[udon-chinese-chess-ai](https://github.com/cocokoishi/udon-chinese-chess-ai)** – A Chinese Chess AI Unity project running in VRChat, using Udon for game logic and GPU resource orchestration, with Shader-based parallel computing as a coprocessor to accelerate traditional game-tree search for high-performance AI gameplay.
+
 - **[infinite-cloner](https://github.com/cocokoishi/infinite-cloner)** – Clone any GameObject infinitely. A joke project that lets you push values to the 2.1 billion integer overflow limit, magically turning your avatar’s performance rating into "Good".
 
 - **[VRCALoader](https://github.com/cocokoishi/VRCALoader)** – Loads locally built VRCA and other asset files directly, serving as a recovery reference when you’ve lost your project files. Not for rippers.
