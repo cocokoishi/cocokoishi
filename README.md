@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm cocokoishi
 
-**My website: https://yzllh.github.io/**
+**My blog: https://yzllh.github.io/**. I write detailed articles explaining my bilibili videos and repos.
 
 Below is a list of my projects that I am currently doing, with brief introductions.
 
